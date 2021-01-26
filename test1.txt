@@ -1,1 +1,6 @@
-gobou
+#include<stdio.>
+
+int main(){
+	printf("");
+}
+
